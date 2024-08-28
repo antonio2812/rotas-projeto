@@ -22,7 +22,7 @@
 
 Desenvolvi uma aplicação web utilizando ReactJS, com foco na implementação de rotas dinâmicas para navegação entre diferentes páginas. A aplicação foi construída com HTML, CSS e JavaScript, integrados ao ReactJS para criar uma experiência de usuário fluida e responsiva.
 
-[Visite o projeto online](https://antonio2812.github.io/rotas-projeto/)
+[Visite o projeto online](https://rotas-projeto.vercel.app/)
 
 ## ⚡  Tecnologias
 
